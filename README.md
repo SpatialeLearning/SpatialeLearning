@@ -18,9 +18,6 @@ GitHub Code
 </div>
 
 
-![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)
-
-
 ## 📝 Premium Courses 
 
 - [The Google Earth Engine Mega Course for GIS and Remote Sensing](https://www.udemy.com/course/google-earth-engine-gis-remote-sensing/?couponCode=AUG22DISC)
