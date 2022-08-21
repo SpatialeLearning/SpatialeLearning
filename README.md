@@ -17,7 +17,7 @@ GitHub Code
   </a>
 </div>
 
-![Spatial eLearning's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)]
+![](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)]
 
 
 ## 📝 Premium Courses 
