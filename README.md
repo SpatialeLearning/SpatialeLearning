@@ -1,6 +1,5 @@
 GitHub Code
 
-
 ## Spatial eLearning 
 
 <div id="badges">
@@ -18,8 +17,7 @@ GitHub Code
   </a>
 </div>
 
-
-![Spatial eLEarning's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)]
+![Spatial eLearning's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpatialeLearning)]
 
 
 ## 📝 Premium Courses 
