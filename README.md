@@ -18,12 +18,12 @@ GitHub Code
 </div>
 
 
+![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
+
+
 ## 📝 Watch Video Tutorials  
 
 - [Subscribe our YouTube channel for more tutorials:](https://www.youtube.com/c/SpatialeLearning)
-
-
-![https://github.com/SpatialeLearning](https://github-readme-stats.vercel.app/api/top-langs/?username=SpatialeLearning&theme=blue-green)
 
 
 
