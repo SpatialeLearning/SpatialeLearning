@@ -23,7 +23,7 @@ GitHub Code
 
 ## 📝 Watch Video Tutorials  
 
-- [Subscribe our YouTube channel for more tutorials:](https://www.youtube.com/c/SpatialeLearning)
+[Subscribe our YouTube channel for video tutorials:](https://www.youtube.com/c/SpatialeLearning)
 
 
 
